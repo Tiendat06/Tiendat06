@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tạ%20Tiến%20Đạt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Tech%20Lead%20%7C%20Vietnam%20🇻🇳&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tạ%20Tiến%20Đạt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Vietnam%20🇻🇳&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Tien+Dat+%F0%9F%91%8B;Full-Stack+Web+Developer;Tech+Lead+%7C+Project+Manager;Lifelong+Learner+%F0%9F%9A%80;Building+scalable+systems+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Tien+Dat+%F0%9F%91%8B;Full-Stack+Web+Developer;Lifelong+Learner+%F0%9F%9A%80;Building+scalable+systems+daily" alt="Typing SVG" />
 </a>
 
 <br/>

@@ -12,7 +12,6 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=tadat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/ta-dat-83bba8266/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -30,10 +29,9 @@
 ```yaml
 name: Tạ Tiến Đạt (Tien Dat)
 location: Vietnam 🇻🇳
-role: Full-Stack Developer & Tech Lead
-team_size: 17 members (DEV · BA · Data · UX/UI · Tester · SysAdmin)
+role: Full-Stack Developer
 focus:
-  - Microservices Architecture
+  - SaaS Microservices Architecture
   - Scalable Web Systems
   - AI/ML & Data Science (pursuing Master's)
 currently_learning:
@@ -74,7 +72,6 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
@@ -89,8 +86,8 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
 </p>
 
 ### 🏗️ Highlight: CRM Multi-Tenant Microservices
-> **Production system** with 4 core services — SaleManagement · Customer · Agreement · Administration
-- 🔧 **Tech**: ASP.NET Core · React · SQL Server · Docker · RabbitMQ
+> **Production system** with 5 core services — Sale · Customer · Agreement · ProductCatalog · Administration
+- 🔧 **Tech**: ASP.NET Core · React · SQL Server · MongoDB · Docker · Kafka
 - 🌐 **Architecture**: Multi-tenant · Event-driven · REST + TMF API standards
 - 👥 **Team**: Key member of team through full SDLC
 

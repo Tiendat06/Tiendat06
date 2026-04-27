@@ -92,7 +92,7 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
 > **Production system** with 4 core services — SaleManagement · Customer · Agreement · Administration
 - 🔧 **Tech**: ASP.NET Core · React · SQL Server · Docker · RabbitMQ
 - 🌐 **Architecture**: Multi-tenant · Event-driven · REST + TMF API standards
-- 👥 **Team**: Led a 17-member cross-functional team through full SDLC
+- 👥 **Team**: Key member of team through full SDLC
 
 ---
 
@@ -100,8 +100,8 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   ████████████░░░░░░░░   45%
-C#           ██████░░░░░░░░░░░░░░   22%
+C#           ████████████░░░░░░░░   45%
+JavaScript   ██████░░░░░░░░░░░░░░   22%
 Java         ████░░░░░░░░░░░░░░░░   15%
 Python       ██░░░░░░░░░░░░░░░░░░   10%
 Other        ██░░░░░░░░░░░░░░░░░░    8%

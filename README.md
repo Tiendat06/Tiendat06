@@ -92,10 +92,11 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
 - 👥 **Team**: Key member of team through full SDLC
 
 ---
-
+<!--
 ## 📈 Coding Activity
-
+-->
 <!--START_SECTION:waka-->
+<!--
 ```text
 C#           ████████████░░░░░░░░   45%
 JavaScript   ██████░░░░░░░░░░░░░░   22%
@@ -103,9 +104,12 @@ Java         ████░░░░░░░░░░░░░░░░   15%
 Python       ██░░░░░░░░░░░░░░░░░░   10%
 Other        ██░░░░░░░░░░░░░░░░░░    8%
 ```
+---
+-->
+
 <!--END_SECTION:waka-->
 
----
+
 
 ## 🤝 Connect With Me
 

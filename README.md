@@ -88,44 +88,6 @@ goal: University Lecturer · Academic Researcher · Senior Engineer
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tadat&bg_color=1a1b27&color=628fdb&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tadat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![CRM Microservices](https://github-readme-stats.vercel.app/api/pin/?username=tadat&repo=crm-microservices&theme=tokyonight&hide_border=true)](https://github.com/tadat)
-[![FullStack Template](https://github-readme-stats.vercel.app/api/pin/?username=tadat&repo=fullstack-template&theme=tokyonight&hide_border=true)](https://github.com/tadat)
-
-</div>
-
 ### 🏗️ Highlight: CRM Multi-Tenant Microservices
 > **Production system** with 4 core services — SaleManagement · Customer · Agreement · Administration
 - 🔧 **Tech**: ASP.NET Core · React · SQL Server · Docker · RabbitMQ

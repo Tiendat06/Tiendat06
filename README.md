@@ -1,38 +1,167 @@
-<h1 align="center">Hi 👋, I'm Tien Dat</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Vietnam</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ta-dat-83bba8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ta-dat-83bba8266/" height="40" width="50" /></a>
-<a href="mailto:tadat290903@gmail.com" target="blank"><img align="center" src="https://res.cloudinary.com/dervs0fx5/image/upload/v1733901017/readme/gfjf0gign0lmgzkk8nqw.png" alt="https://www.linkedin.com/in/ta-dat-83bba8266/" height="50" width="50" /></a>
-</p>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tạ%20Tiến%20Đạt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Tech%20Lead%20%7C%20Vietnam%20🇻🇳&descAlignY=55&descSize=16" width="100%"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a style="margin-right: 15px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a style="margin-right: 15px" href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a style="margin-right: 15px" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a style="margin-right: 15px" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a style="margin-right: 15px" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Framework:</h3>
-<p align="left" style="display: flex; align-items: center"> 
-<a style="margin-right: 15px" href="https://expressjs.com" target="_blank" rel="noreferrer"><img style="width: 70px" src="https://res.cloudinary.com/dervs0fx5/image/upload/v1733901849/readme/kruzdkjxghgtqy8oqhcc.png" alt="express" width="50" height="50"/> </a> 
-<a style="margin-right: 15px" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a style="margin-right: 15px" href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
-<a style="margin-right: 15px" href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img style="width: 70px" src="https://res.cloudinary.com/dervs0fx5/image/upload/v1738899121/readme/muwshklhejj7gbdalgrd.jpg" alt="asp.net" width="50" height="50"/></a>
-<a style="margin-right: 15px" href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img style="width: 70px" src="https://res.cloudinary.com/dervs0fx5/image/upload/v1733901751/readme/cmrz9ne0fxa71itb1nza.png" alt="flask" width="50" height="50"/></a>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Tien+Dat+%F0%9F%91%8B;Full-Stack+Web+Developer;Tech+Lead+%7C+Project+Manager;Lifelong+Learner+%F0%9F%9A%80;Building+scalable+systems+daily" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tadat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/ta-dat-83bba8266/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tadat290903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Database:</h3>
-<p align="left" style="display: flex; align-items: center"> 
-<a style="margin-right: 15px" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-<a style="margin-right: 15px" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-<a style="margin-right: 15px" href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Tạ Tiến Đạt (Tien Dat)
+location: Vietnam 🇻🇳
+role: Full-Stack Developer & Tech Lead
+team_size: 17 members (DEV · BA · Data · UX/UI · Tester · SysAdmin)
+focus:
+  - Microservices Architecture
+  - Scalable Web Systems
+  - AI/ML & Data Science (pursuing Master's)
+currently_learning:
+  - TMF APIs & Telecom Domain
+  - Advanced React Patterns
+  - System Design & DDD
+goal: University Lecturer · Academic Researcher · Senior Engineer
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left" style="display: flex; align-items: center">
-<a style="margin-right: 15px" href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
-<a style="margin-right: 15px" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
 </p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tadat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tadat&bg_color=1a1b27&color=628fdb&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tadat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![CRM Microservices](https://github-readme-stats.vercel.app/api/pin/?username=tadat&repo=crm-microservices&theme=tokyonight&hide_border=true)](https://github.com/tadat)
+[![FullStack Template](https://github-readme-stats.vercel.app/api/pin/?username=tadat&repo=fullstack-template&theme=tokyonight&hide_border=true)](https://github.com/tadat)
+
+</div>
+
+### 🏗️ Highlight: CRM Multi-Tenant Microservices
+> **Production system** with 4 core services — SaleManagement · Customer · Agreement · Administration
+- 🔧 **Tech**: ASP.NET Core · React · SQL Server · Docker · RabbitMQ
+- 🌐 **Architecture**: Multi-tenant · Event-driven · REST + TMF API standards
+- 👥 **Team**: Led a 17-member cross-functional team through full SDLC
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   ████████████░░░░░░░░   45%
+C#           ██████░░░░░░░░░░░░░░   22%
+Java         ████░░░░░░░░░░░░░░░░   15%
+Python       ██░░░░░░░░░░░░░░░░░░   10%
+Other        ██░░░░░░░░░░░░░░░░░░    8%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tạ%20Tiến%20Đạt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ta-dat-83bba8266/)
+[![Gmail](https://img.shields.io/badge/Gmail-tadat290903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadat290903@gmail.com)
+
+<br/>
+
+> *"Code is not just instructions for machines — it's communication between humans across time."*
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>

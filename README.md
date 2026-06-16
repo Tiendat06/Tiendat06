@@ -38,7 +38,7 @@ currently_learning:
   - TMF APIs & Telecom Domain
   - Advanced React Patterns
   - System Design & DDD
-goal: University Lecturer · Academic Researcher · Senior Engineer
+goal: Senior Engineer · Project Manager · University Lecturer
 ```
 
 ---

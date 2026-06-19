@@ -36,7 +36,7 @@ focus:
   - AI/ML & Data Science (pursuing Master's)
 currently_learning:
   - TMF APIs & Telecom Domain
-  - Advanced React Patterns
+  - AI agent operations
   - System Design & DDD
 goal: Senior Engineer · Project Manager · University Lecturer
 ```
